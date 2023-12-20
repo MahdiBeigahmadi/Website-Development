@@ -1,0 +1,112 @@
+ <section>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+          <p style="font-weight: 500;">
+            We are alwayse proud to help our customers. You can contact us by filling out the form which you can see below. Please be patient due to traffic and high number of requests your question or assistance may be answered a little late. However, our team members try to respond you as fast as possible. Thank You
+          </p><hr/>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="form-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+           <form action="">
+             <div class="form-row">
+               <div class="form-group col-md-6">
+                  <input type ="text" class="form-control" placeholder="Full Name *">
+                 </div>
+                   <div class="form-group col-md-6">
+                    <input type ="email" class="form-control" placeholder="Email Address *">
+                     </div>
+               </div>
+           </form>
+           <div class="form-row">
+            <div class="form-group col-md-6">
+               <input type ="number" class="form-control" placeholder="Phone Number *">
+              </div>
+                <div class="form-group col-md-6">
+                 <select class="form-control" name="" id="">
+                  <option selected="">Country</option>
+                  <option>Canada</option>
+                  <option>America</option>
+                  <option>India</option>
+                  <option>China</option>
+                  <option>Iran</option>
+                  <option>Russia</option>
+                  <option>Ukraine</option>
+                  <option>Germany</option>
+                  <option>Netherland</option>
+                  <option>France</option>
+                  <option>Italy</option> 
+                  <option>Brazil</option>
+                  <option>Argentina</option>
+                  <option>Japan</option>
+                  <option>Finland</option>
+                  <option>Turkey</option>
+                  <option>Egypt</option>
+                  <option>Taiwan</option>
+                  <option>Africa</option>
+                  <option>South Korea</option>
+                  <option>Iraq</option>
+                  <option>Switzerland</option>
+                  <option>Scotland</option>
+                  <option>Iceland</option>
+                  <option>Saudi Arabia</option>
+                  <option>UAE</option>
+                  <option>Qatar</option>
+                  <option>Spain</option>
+                  <option>Mexico</option>
+                  <option>Panama</option>
+                  <option>Philinpine</option>
+                  <option>Denmark</option>
+                  <option>Belarus</option>
+                  <option>Austria</option>
+                  <option>Australia</option>
+                  <option>Pakistan</option>
+                  <option>Thailand</option>
+                  <option>Hong Kong</option>
+                  <option>Greece</option>
+                  <option>Venezuela</option>
+                 </select>
+                  </div>
+            </div>
+            <div class="form-row">
+              <div class="form-group col-md-12">
+                 <input type ="text" class="form-control" placeholder="Subject *">
+              </div>
+              </div>
+              <div class="form-row">
+                <div class="form-group col-md-12">
+                  <textarea class="form-control" rows="12">
+
+                  </textarea>
+                </div>
+            
+                <div class="col-md-6 address">
+                  <h5>
+                   Call Us / WhatsApp
+                  </h5>
+                  <p><a href="tel:+17783022940"> <i class="fas fa-phone"></i> +1 778 302 2940</a><br>
+                  </p>
+                  <h5>
+                   Email Us
+                 </h5>
+                   <P>
+                     <a href="mailto:mahdibeigahmadi@gmail.com"><i class="fas fa-envelope"></i>  mahdibeigahmadi@gmail.com</a>
+                   </P>
+                   <h5>
+                     Working Hours
+                   </h5>
+                   <p> Mon - Fri : 9 AM - 6 PM </p>
+                   <h5>
+                     Address
+                   </h5>
+                   <p> 13450 102 Ave Unit 250, Surrey, BC V3T 0A3 </p>
+               </div>
+                </div>
+      </div>
+</section>
